@@ -1,5 +1,4 @@
 # Undefined Developer
-![img](pic.jpg)
 ## Who am i?
 - ordinarry student
 - junior developer, engeneer
