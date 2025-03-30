@@ -1,6 +1,5 @@
 # Undefined Developer
 ## Who am i?
-- ordinarry student
 - junior developer, engeneer
 - stupid guy
 
